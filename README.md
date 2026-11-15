@@ -1,3 +1,29 @@
+# VLX-Seek
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+VLX-Seek is an efficient VLM that grounds fine-grained visual targets with high precision in wild environments.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+在开放环境中高精度定位细粒度视觉目标的高效视觉语言模型。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <img src="assets/logo-small.png" alt="VLX-Seek logo" width="180">
 </p>
